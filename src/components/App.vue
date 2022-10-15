@@ -1,7 +1,10 @@
 <template>
   <div>
     {{ msg }}
+<<<<<<< HEAD
     Eiffel Joy 
+=======
+>>>>>>> parent of 80c3e91 (add Jakcie)
   </div>
 </template>
 
