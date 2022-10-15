@@ -1,6 +1,7 @@
 <template>
   <div>
     {{ msg }}
+    Joy
   </div>
 </template>
 
