@@ -1,7 +1,7 @@
 <template>
   <div>
     {{ msg }}
-    Joy
+    Eiffel Joy 
   </div>
 </template>
 
